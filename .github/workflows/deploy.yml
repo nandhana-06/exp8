@@ -6,7 +6,7 @@ on:
       - main
 
 permissions:
-  contents: write   # ✅ IMPORTANT FIX
+  contents: write
 
 jobs:
   deploy:
